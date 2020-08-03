@@ -1,0 +1,362 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   /*background-color:  rgb(0, 1, 17);*/
+   background-image: linear-gradient(to bottom right,rgb(0, 2, 32), black);
+}
+header{
+   /* background-color: rgb(84, 173, 128);*/
+    background-color:rgb(0, 6, 17);
+    border-radius: 0 0 20px 20px;
+    height: 20%;
+    
+}
+
+#map{
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    margin-top: -10%;
+    width:36% ;
+    height: 580px;
+    
+
+
+}
+#title{
+    color:#18f8d3;
+    text-align: center;
+    margin-bottom: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.text{
+    color: #f7dac7
+    
+}
+#floatleft{
+    float: left;
+    margin-top: -500px;
+    text-indent: 10px;
+    position:absolute;
+    margin-right: 75%;
+    background-color:transparent;
+    padding-left: 10px;
+}
+#state{
+   float: right;
+    color:beige;
+     margin: 0 auto;
+    display: block;
+    padding-right: 42%;
+    text-align: left;
+    font-size: 30px;
+    margin-top: -100px;
+    background-color: #FF5100;
+}
+main{
+  padding-top: 5%;
+}
+#rs{
+    
+  position: absolute;
+  bottom: 32%;
+  left: 49.5%;
+    display: block;
+
+}
+#SC{
+    
+  position: absolute;
+  bottom: 37.5%;
+  left: 51.5%;
+     display: block;
+
+}
+#PR{
+    
+  position: absolute;
+  bottom: 41.5%;
+  left: 50.5%;
+
+}
+
+#sp{
+    
+  position: absolute;
+  bottom: 45.75%;
+  left: 53.75%;
+
+}
+#rj{
+    
+  position: absolute;
+  bottom: 48%;
+  left: 58.4%;
+
+}
+#es{
+    
+  position: absolute;
+  bottom: 52%;
+  left: 59%;
+
+}
+#mg{
+    
+  position: absolute;
+  bottom: 51.5%;
+  left: 55%;
+
+}
+
+#ms{
+    
+  position: absolute;
+  bottom:52%;
+  left: 48%;
+
+}
+#mt{
+    
+  position: absolute;
+  bottom: 62%;
+  left: 47%;
+
+}
+#go{
+    
+  position: absolute;
+  bottom: 57%;
+  left: 51.5%;
+
+}
+#ro{
+ 
+  position: absolute;
+  bottom: 70%;
+  left: 42%;
+}
+#ac{
+    
+  position: absolute;
+  bottom: 73%;
+  left: 34%;
+}
+#am{
+    
+  position: absolute;
+  bottom: 80%;
+  left: 43%;
+    
+}
+#rr{
+    
+  position: absolute;
+  bottom: 92%;
+  left: 42%;
+}
+#pa{
+  position: absolute;
+  bottom: 76%;
+  left: 51%;
+}
+#ap{
+    position: absolute;
+    bottom: 91%;
+    left: 50.5%;
+}
+#to{
+    position: absolute;
+    bottom: 67%;
+    left: 53%;
+}
+#ma{
+    position: absolute;
+    bottom: 76%;
+    left: 56%;
+}
+#pi{
+    position: absolute;
+    bottom: 71%;
+    left: 56.5%;
+}
+#ba{
+    position: absolute;
+    bottom: 62%;
+    left: 58%;
+     display: block;
+}
+#pb{
+    position: absolute;
+    bottom: 71.75%;
+    left: 63.5%;
+}
+#rn{
+    position: absolute;
+    bottom: 75.5%;
+    left: 63%;
+         display: block;
+}
+#al{
+    position: absolute;
+    bottom: 67%;
+    left: 61.75%;
+}
+#se{
+    position: absolute;
+    bottom: 64.5%;
+    left:61.5%;
+}
+#ce{
+     position: absolute;
+    bottom: 76%;
+    left: 60%
+}
+#pe{
+    position: absolute;
+    bottom: 69.5%;
+    left: 63%;
+}
+
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+   
+  
+}
+.sul{
+    color: #800000;
+    text-decoration: none;
+    font-size: 12px;
+    
+}
+.sud{
+    color: darkblue;
+    text-decoration: none;
+    font-size: 12px;
+
+}
+.centro{
+    color: #7B5F00;
+    text-decoration: none;
+    font-size: 12px;
+
+}
+.nor{
+    color: darkgreen;
+    text-decoration: none;
+    font-size: 12px;
+
+}
+.nord{
+    color: red;
+    text-decoration: none;  
+      font-size: 12px;
+
+}
+
+#stateimg{
+float: right;
+     display: block;
+     width: 35%;
+     height: 20%;
+     margin-bottom: 5px;
+     margin-right: 5px;
+     border-radius: 10px;
+    
+}
+article{
+    width: 70%;
+   
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: aliceblue;
+
+}
+#text{
+    margin-bottom: 5px;
+}
+.recipes{
+
+     margin: 0 auto;
+     display: block;
+     width: 300px;
+     height: 250px;
+   
+
+}
+.imgfood {
+  color: #FF5100;
+  text-align: center;
+
+}
+#b{
+     float: left;
+     display: none;
+     width: 35%;
+     height: 20%;
+     margin-bottom: 5px;
+     margin-left: 5px;
+     border-radius: 10px;
+     clear: right;
+     padding-right: 5px;
+
+}
+#c{
+  float: right;
+  display: none;
+  width: 35%;
+  height: 20%;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  border-radius: 10px;
+
+}
+h2{
+  clear: both;
+
+}
+.textfood{
+  color: white;
+  text-align: center;
+  text-align: left;
+  width: 60%;
+  margin-left: 10%;
+  padding-left: 10%;
+  
+}
+p{
+  
+  font-size: 18px;
+  text-indent: 10px;
+  height: 20%;
+  border-radius: 5px;
+}
+#content{
+  margin: 0 auto;
+  margin-right: 10%;
+  margin-left: 10%;
+
+}
+footer{
+  height: 80px;
+  width: 100%;
+  background-color:rgb(0, 6, 17);;
+    margin-bottom: 0;
+  margin-top: -3px;
+  color: transparent;
+  clear: both;
+  border-radius: 20px 20px  0 0 ;
+
+}
+#secondo{
+  padding-bottom: 3px;
+}
